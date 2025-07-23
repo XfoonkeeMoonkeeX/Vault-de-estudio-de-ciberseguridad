@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "618a56f6a0b2b3a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "efbc860c04b0e66e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d744c3931b25b2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - RUTAS DE APRENDIZAJE/2 - Programación Segura.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Programación Segura.md"
+            }
+          },
+          {
+            "id": "7a1abab88d0bffb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Programación Segura/Módulo 1 - La Mentalidad y los Principios/El Ciclo de Vida de Desarrollo Seguro (Secure-SDL).md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "El Ciclo de Vida de Desarrollo Seguro (Secure-SDL).md"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e28324682bcbb43",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e5477d9b481f87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d037cf5ff65ee00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "eb55fb6d00f1269b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "45b6181d6e2f2b2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 375.5
+  },
+  "right": {
+    "id": "268da70a32d8a34e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ee4c55204b90dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a987e6161b18d031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "dec377482d17154c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "8d4f7565ca4983fb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "15a62d93040c9b50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9d037cf5ff65ee00",
+  "lastOpenFiles": [
+    "README.md",
+    "PLAN_DE_ATAQUE.md",
+    "00 - RUTAS DE APRENDIZAJE/2 - Programación Segura.md.md",
+    "PLAN_DE_ATAQUE.md.md",
+    "02 - Programación Segura/Módulo 1 - La Mentalidad y los Principios/El Ciclo de Vida de Desarrollo Seguro (Secure-SDL).md.md",
+    "00 - RUTAS DE APRENDIZAJE/00 - BIENVENIDA.md.md",
+    "00 - RUTAS DE APRENDIZAJE/5 - Comunicación de Riesgos.md.md",
+    "05 - Comunicación de riesgos/Módulo 4 - Visualización de Datos para el Riesgo/Gráficos de Tendencia para Mostrar Evolución.md.md",
+    "05 - Comunicación de riesgos/Módulo 4 - Visualización de Datos para el Riesgo/Gráficos de Barras para Comparar Severidades.md.md",
+    "05 - Comunicación de riesgos/Módulo 4 - Visualización de Datos para el Riesgo/Uso de Mapas de Calor para Matrices de Riesgo.md.md",
+    "05 - Comunicación de riesgos/Módulo 4 - Visualización de Datos para el Riesgo/Una Imagen Vale Más que Mil Celdas.md.md",
+    "05 - Comunicación de riesgos/Módulo 4 - Visualización de Datos para el Riesgo/Visualización de Datos para el Riesgo.md.md",
+    "05 - Comunicación de riesgos/Módulo 3 - El Arte de la Traducción y la Analogía/El Poder de las Analogías.md.md",
+    "05 - Comunicación de riesgos/Módulo 3 - El Arte de la Traducción y la Analogía/Traducir Jerga Técnica a Lenguaje de Negocio.md.md",
+    "05 - Comunicación de riesgos/Módulo 3 - El Arte de la Traducción y la Analogía/El Arte de la Traducción y la Analogía.md.md",
+    "05 - Comunicación de riesgos/Módulo 2 - Conoce a tu Audiencia/Audiencia 2 - Gerentes Técnicos (Jefes de IT, Desarrollo, Infraestructura).md.md",
+    "05 - Comunicación de riesgos/Módulo 1 - Fundamentos de Riesgo/Opciones de Tratamiento del Riesgo.md.md",
+    "05 - Comunicación de riesgos/Módulo 1 - Fundamentos de Riesgo/Análisis de Riesgo Cualitativo vs Cuantitativo.md.md",
+    "05 - Comunicación de riesgos/Módulo 1 - Fundamentos de Riesgo/Vulnerabilidad vs Amenaza vs Riesgo.md.md",
+    "05 - Comunicación de riesgos/Módulo 1 - Fundamentos de Riesgo/La Ecuación del Riesgo.md.md",
+    "05 - Comunicación de riesgos/Módulo 1 - Fundamentos de Riesgo/Fundamentos de Riesgo.md.md",
+    "04 - Threat Hunting/Módulo 4 - Técnicas de Caza (El \"Cómo\")/Proyecto Final - Sugerido.md.md",
+    "04 - Threat Hunting/Módulo 4 - Técnicas de Caza (El \"Cómo\")/Técnicas de Caza.md.md",
+    "04 - Threat Hunting/Módulo 4 - Técnicas de Caza (El \"Cómo\")/Actividad - Explorar Datasets Públicos de Ataques.md.md",
+    "04 - Threat Hunting/Módulo 4 - Técnicas de Caza (El \"Cómo\")/Técnica de Caza - Análisis de Relaciones Padre-Hijo.md.md",
+    "04 - Threat Hunting/Módulo 4 - Técnicas de Caza (El \"Cómo\")/Técnica de Caza - Análisis de la Línea de Comandos.md.md",
+    "05 - Comunicación de riesgos/Proyecto - Final",
+    "Sin nombre",
+    "05 - Comunicación de riesgos/Módulo 4 - Visualización de Datos para el Riesgo",
+    "05 - Comunicación de riesgos/Módulo 3 - El Arte de la Traducción y la Analogía",
+    "05 - Comunicación de riesgos/Módulo 2 - Conoce a tu Audiencia",
+    "05 - Comunicación de riesgos/Módulo 1 - Fundamentos de Riesgo",
+    "Proyecto Final Sugerido",
+    "04 - Threat Hunting/Módulo 4 - Técnicas de Caza (El \"Cómo\")",
+    "04 - Threat Hunting/Módulo 3 - Formulando Hipótesis de Caza",
+    "04 - Threat Hunting/Módulo 2 - Las Fuentes de Datos del Cazador"
+  ]
+}
