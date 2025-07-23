@@ -1,0 +1,12 @@
+# Ignora configuraciones locales de Obsidian
+.obsidian/cache/
+.obsidian/workspace.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
